@@ -1,0 +1,100 @@
+Rome, Italy
+Prague, Czechia
+Melbourne VIC, Australia
+New York, NY, USA
+Aachen, Germany
+Los Angeles, CA, USA
+Boston, MA, USA
+Chicago, IL, USA
+Mexico City, Federal District, Mexico
+Bakersfield, CA, USA
+San Francisco, CA, USA
+Denver, CO, USA
+Perth WA, Australia
+Dallas, TX, USA
+Philadelphia, PA, USA
+Toronto, ON, Canada
+Atlanta, GA, USA
+Houston, TX, USA
+Riverside, CA, USA
+Seattle, WA, USA
+Phoenix, AZ, USA
+Oakland, CA, USA
+Brisbane QLD, Australia
+Minneapolis, MN, USA
+Eugene, OR, USA
+Montreal, QC, Canada
+Washington, DC, USA
+Turin, Italy
+Portland, OR, USA
+Miami, FL, USA
+Stockton, CA, USA
+Fort Lauderdale, FL, USA
+Kansas City, MO, USA
+San Diego, CA, USA
+Salt Lake City, UT, USA
+Orlando, FL, USA
+Madrid, Spain
+Rochester, MN, USA
+Hartford, CT, USA
+Adelaide SA, Australia
+Durham, NC, USA
+El Paso, TX, USA
+Milan, Italy
+Helsinki, Finland
+Las Vegas, NV, USA
+Sacramento, CA, USA
+St Petersburg, Russia
+Nashville, TN, USA
+Providence, RI, USA
+Austin, TX, USA
+Warsaw, Poland
+Pittsburgh, PA, USA
+Vancouver, BC, Canada
+Budapest, Hungary
+Detroit, MI, USA
+Tampa, FL, USA
+Córdoba, Cordoba, Argentina
+Tucson, AZ, USA
+Jacksonville, FL, USA
+Toulouse, France
+Columbus, OH, USA
+New York, USA
+Dublin, Ireland
+Calgary, AB, Canada
+Auckland, New Zealand
+Cleveland, OH, USA
+Edmonton, AB, Canada
+Oklahoma City, OK, USA
+Buffalo, NY, USA
+Brooklyn, NY, USA
+New Orleans, LA, USA
+Bilbao, Biscay, Spain
+Canberra ACT, Australia
+Vienna, Austria
+Boise, ID, USA
+Tampere, Finland
+Belo Horizonte, Belo Horizonte - State of Minas Gerais, Brazil
+Bari, Italy
+Brussels, Belgium
+Florence, Italy
+Valencia, Spain
+Winnipeg, MB, Canada
+Honolulu, HI, USA
+Quebec City, QC, Canada
+Christchurch, New Zealand
+Grenoble, France
+Hamilton, ON, Canada
+Wellington, New Zealand
+Bronx, NY, USA
+Palermo, Italy
+Halifax, NS, Canada
+Vilnius, Lithuania
+Nancy, France
+Saskatoon, SK, Canada
+London, ON, Canada
+Kaunas, Lithuania
+Regina, SK, Canada
+Queens, NY, USA
+Raleigh, NC, USA
+Rīga, Latvia

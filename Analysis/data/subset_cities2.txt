@@ -1,0 +1,39 @@
+Rome, Italy
+Prague, Czechia
+Melbourne VIC, Australia
+New York, NY, USA
+Los Angeles, CA, USA
+Boston, MA, USA
+Chicago, IL, USA
+Mexico City, Federal District, Mexico
+San Francisco, CA, USA
+Perth WA, Australia
+Dallas, TX, USA
+Philadelphia, PA, USA
+Toronto, ON, Canada
+Brisbane QLD, Australia
+Washington, DC, USA
+Miami, FL, USA
+Madrid, Spain
+Milan, Italy
+Helsinki, Finland
+St Petersburg, Russia
+Warsaw, Poland
+Vancouver, BC, Canada
+Budapest, Hungary
+Detroit, MI, USA
+Tampa, FL, USA
+Toulouse, France
+New York, USA
+Dublin, Ireland
+Auckland, New Zealand
+New Orleans, LA, USA
+Bilbao, Biscay, Spain
+Vienna, Austria
+Brussels, Belgium
+Valencia, Spain
+Winnipeg, MB, Canada
+Honolulu, HI, USA
+Nancy, France
+Kaunas, Lithuania
+Rīga, Latvia
